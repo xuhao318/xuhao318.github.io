@@ -1,8 +1,7 @@
 ## Welcome to The quireifi cockpit
 
-### Jan 11th 2018
-
-
+### Jan 29th 2018
+No progress to the project, little bit lost.
 
 ### Jan 10th 2018
 
