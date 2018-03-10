@@ -1,5 +1,8 @@
 ## Welcome to The quireifi cockpit
 
+### Mar 10th 2018
+Looking for ideas for hackathon raido-canada
+
 ### Jan 29th 2018
 No progress to the project, little bit lost.
 
