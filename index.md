@@ -1,10 +1,12 @@
 ## Welcome to The quireifi cockpit
 
-### Mar 11th 2018
-Finally submitted the application. hmmmm
+### Mar 12th 2018
 ```bash
 kubectl apply -f /path/to/yaml/
 ```
+
+### Mar 11th 2018
+Finally submitted the application. hmmmm
 
 ### Mar 10th 2018
 Looking for ideas for hackathon raido-canada
