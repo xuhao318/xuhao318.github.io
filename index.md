@@ -2,6 +2,9 @@
 
 ### Mar 11th 2018
 Finally submitted the application. hmmmm
+```bash
+kubectl apply -f /path/to/yaml/
+```
 
 ### Mar 10th 2018
 Looking for ideas for hackathon raido-canada
