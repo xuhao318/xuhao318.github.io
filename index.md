@@ -1,5 +1,13 @@
 ## Welcome to The quireifi cockpit
 
+### Mar 22nd 2018
+
+```markdown
+**IMPORTANT**
+_Something_
+'code'
+```
+
 ### Mar 12th 2018
 ```bash
 kubectl apply -f /path/to/yaml/
