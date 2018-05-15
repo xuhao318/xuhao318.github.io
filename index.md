@@ -1,5 +1,23 @@
 ## Welcome to The quireifi cockpit
 
+### May 14th 2018
+
+Fibonacci number 
+Fibonacci heap (Min heap)
+Fibonacci number and Golden Ratio
+
+Fibonacci number tree branch (Most efficient collect sunight)
+
+### May 13th 2018
+
+Euclidean geometry and Non-Euclidean geometry
+
+### May 10th 2018
+
+100 Gold for 3 people, less votes gets killed
+
+A-99, B-0, C-1
+
 ### April 17th 2018
 
 **Starting again**
