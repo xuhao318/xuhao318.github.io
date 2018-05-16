@@ -1,5 +1,9 @@
 ## Welcome to The quireifi cockpit
 
+### May 16th 2018
+
+fork sync and git submodule
+
 ### May 14th 2018
 
 Fibonacci number 
